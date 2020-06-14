@@ -40,9 +40,7 @@ def reverseVowels(self, s: str) -> str:
         print(i)
         if ls[i] in vowels:
             if ls[j] in vowels:
-                temp = ls[i]
-                ls[i] = ls[j]
-                ls[j] = temp
+                ls[i],ls[j] = ls[j],ls[i]
                 print("i",i)
                 i+=1
                 j-=1
