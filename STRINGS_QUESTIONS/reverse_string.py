@@ -28,3 +28,29 @@ def reverseString(self, s: List[str]) -> None:
         s[i] = s[y - i]
         s[y - i] = temp
     return s
+
+def reverseVowels(self, s: str) -> str:
+    # use the two pointers approach
+    i = 0
+    j = len(s)-1
+    ls = list(s)
+    print(ls)
+    vowels = "aeiouAEIOU"
+    while i <=j:
+        print(i)
+        if ls[i] in vowels:
+            if ls[j] in vowels:
+                temp = ls[i]
+                ls[i] = ls[j]
+                ls[j] = temp
+                print("i",i)
+                i+=1
+                j-=1
+            else:
+                j -= 1
+        else:
+            i += 1
+    new_string = ""
+    for i in ls:
+        new_string += i
+    return new_string
