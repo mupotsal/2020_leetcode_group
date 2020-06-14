@@ -15,3 +15,16 @@ def reverseWords(s):
         if i != 0:
             req_rever += " "
     return req_rever
+
+def reverseString(self, s: List[str]) -> None:
+    """
+    Do not return anything, modify s in-place instead.
+        """
+    num_to_swap = len(s) // 2
+    y = len(s) - 1
+
+    for i in range(num_to_swap):
+        temp = s[i]
+        s[i] = s[y - i]
+        s[y - i] = temp
+    return s
