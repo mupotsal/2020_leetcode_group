@@ -24,6 +24,7 @@ This is for tracking our progress in Technical Interview Preparation
   *  How do you remove a given character from String? (solution)
   
   **also chech the following link for popular technical interview questions**
+  https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo8
 - [ ] Arrays questions
 - [ ] Stacks/ Queues/ deque
 - [ ] LinkedLists
