@@ -2,7 +2,7 @@
 This is for tracking our progress in Technical Interview Preparation
 - [ ] Strings -- look into dynamic programming too
    *https://leetcode.com/tag/string/
-  * How do you reverse a given string in place? (solution)
+  * How do you reverse a given string in place? #v151, 186, 344, 345, 541, 557, 917
   * How do you print duplicate characters from a string? (solution)
   * How do you check if two strings are anagrams of each other? (solution)
   *  How do you find all the permutations of a string? (solution)
