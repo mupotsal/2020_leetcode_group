@@ -22,6 +22,8 @@ This is for tracking our progress in Technical Interview Preparation
   *  how to remove the duplicate character from String? (solution)
   * How to find the maximum occurring character in given String? (solution)
   *  How do you remove a given character from String? (solution)
+  
+  **also chech the following link for popular technical interview questions**
 - [ ] Arrays questions
 - [ ] Stacks/ Queues/ deque
 - [ ] LinkedLists
