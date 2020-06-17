@@ -26,6 +26,7 @@ This is for tracking our progress in Technical Interview Preparation
   **also chech the following link for popular technical interview questions**
   https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/#algo8
 - [ ] Arrays questions
+**also check the folowing link** https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html
 - [ ] Stacks/ Queues/ deque
 - [ ] LinkedLists
 - [ ] Hashing
