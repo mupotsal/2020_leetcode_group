@@ -74,6 +74,8 @@ This is for tracking our progress in Technical Interview Preparation
 * Separate Chaining for Collision Handling
 * Given an array of pairs, find all symmetric pairs in it
 - [ ] Trees
+* source **https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f**
+**https://www.geeksforgeeks.org/binary-tree-data-structure**
 - [ ] Binary search Trees
 - [ ] Heap
 - [ ] Graph
