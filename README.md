@@ -30,7 +30,7 @@ This is for tracking our progress in Technical Interview Preparation
 - [ ] Stacks/ Queues/ deque
 - [ ] LinkedLists
   **questions**
-  ** https://www.geeksforgeeks.org/top-20-linked-list-interview-question/ **
+  **https://www.geeksforgeeks.org/top-20-linked-list-interview-question/**
     * Print the Middle of a given linked list
     *Flattening a linked list
    * Delete the elements in an linked list whose sum is equal to zero
