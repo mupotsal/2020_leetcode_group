@@ -51,6 +51,7 @@ This is for tracking our progress in Technical Interview Preparation
     * Write a function to reverse the nodes of a linked list.
     * Why quicksort is preferred for arrays and merge sort for linked lists.
 - [ ] Hashing
+**https://www.geeksforgeeks.org/top-20-hashing-technique-based-interview-questions/**
 * Find whether an array is subset of another array
 * Union and Intersection of two Linked Lists
 * Find a pair with given sum
