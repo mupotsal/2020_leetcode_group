@@ -39,7 +39,7 @@ This is for tracking our progress in Technical Interview Preparation
     * Remove duplicate elements from sorted linked list
     * Add 1 to a number represented as a linked list
     * Reverse a linked list in groups of given size
-    * Detect loop in linked list
+    * Detect loop in linked list (142 LC)
    *  Remove loop in linked list
     * Find nth node from the end of linked list
     * Function to check if a singly linked list is a palindrome
