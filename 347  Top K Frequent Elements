@@ -1,0 +1,53 @@
+class Solution(object):
+    def topKFrequent(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: List[int]
+        """
+        
+        nums.sort
+        frequency = {}
+        most_freq={}
+        freq_most=[0]*k
+        for i in range(k):
+            most_freq[i] = 0
+        
+        for i in range(len(nums)):
+            if nums[i] not in frequency.keys():
+                frequency[nums[i]] = 1
+            else:              
+                frequency[nums[i]]+=1
+      #  print(nums[len(nums)-1], " ",frequency[nums[len(nums)-1]])
+        print("This is frequency", frequency)
+      
+        for i in range(len(nums)):
+            for i in range(k):
+                if nums[i] > most_freq[]
+                
+    
+     #   for k,l in frequeny.items():
+            
+                
+    # for m,n in myDict.items():
+    # m = key
+    # n = value
+                                
+      #  for j in range(0, nums[len(nums)-1], 1):  
+    # make a list, putting  the values..  frequency of occuring [3,1,2]
+    # sort the list [1,2,3]
+    # cut from the end 2 [last k elemnts]
+    # these k appear the most best =[2,3]
+    # req_nums
+    # you go into the dictionary.. looking for the key with the value of [i]
+    # for k,l in myDict.items():
+    #     for i in best:
+    #      if l == i:
+    #      append(k) to a list that carying numbers req_nums
+    #[1,2]
+    
+    
+    
+    
+    
+    
