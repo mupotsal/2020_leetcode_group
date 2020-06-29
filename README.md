@@ -54,6 +54,7 @@ This is for tracking our progress in Technical Interview Preparation
 - [ ] Hashing
 **https://www.geeksforgeeks.org/top-20-hashing-technique-based-interview-questions/**
 * 2 sum
+- [ ] Kth Frequency
 * Find whether an array is subset of another array
 * Union and Intersection of two Linked Lists
 * Find a pair with given sum
