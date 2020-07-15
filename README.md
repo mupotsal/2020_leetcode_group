@@ -87,3 +87,23 @@ This is for tracking our progress in Technical Interview Preparation
 - [ ] Dynamic programming questions
 - [ ] Sorting
 - [ ] Searching 
+
+# Questions Done from LeetCode:
+* intersection of 2 arrays #349
+* 2 sum #1
+* longest subseqquence
+* Top K Frequent Elements #347
+* Remove Duplicates from sorted Array:https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/
+* container with most water(Google Questions)
+* Arranging Coins (google questions)
+* (Remember the worth of your money, do those leetcode premium qsns)
+* 102. Binary Tree Level Order Traversal
+* Right Side View Tree (BST)
+* https://leetcode.com/tag/breadth-first-search/
+* 103. Binary Tree Zigzag Level Order Traversal
+* 700. Search in a Binary Search Tree
+* Count Complete Tree Nodes (Google Question)
+* Valid Anagram(Google Question, Use dictinaries to solve it:::exciting with dictionaries
+* )
+* 2. Add Two Numbers (Linked List Popular qsn)
+
